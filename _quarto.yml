@@ -1,8 +1,9 @@
 project:
   type: website
   output-dir: docs
+
 website:
-  title: "agolberg.github.io"
+  title: "Alexander Golberg"
   navbar:
     left:
       - href: index.qmd
@@ -11,9 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: Journal
     css: styles.css
     toc: true
-
-
-
+    page-layout: full

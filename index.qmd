@@ -1,7 +1,39 @@
 ---
-title: "Alexander Golberg"
+title: "Prof. Alexander Golberg"
+image: headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/alexander-golberg-2788481
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=2pPLLaEAAAAJ
+    - text: Email
+      href: mailto:agolberg@tauex.tau.ac.il
 ---
 
-# Hi There 
 
-I love Inna
+## Hi there !
+
+Welcome to my website; I'm thrilled to share my journey, expertise, and insights with you. 
+
+## In few words
+
+I have a genuine passion for writing and :) bio-process engineering, an extraordinary field that offers innovative solutions to make a meaningful impact on the world's most pressing issues in the realms of health, food, energy, and the environment. 
+
+This expertise allows forming new and exciting collaborations, through which we further push the boundaries of known and unknown. 
+
+## Current position 
+
+**Chair** of the Multidisciplinary [Department of Environmental Studies at Tel Aviv University](https://en-environment.tau.ac.il/Head_of_PSES), an exciting academic enterprise that aims to generate and disseminate knowledge of sustainable living and development
+
+## Academic [CV](CV.pdf)
+
+## Education
+
+**Ph.D  Bioengineering** | The Hebrew University of Jerusalem | 2011
+
+**B.Sc  Food and Biotechnology Engineering** | Technion- Israel Institute of Technology | 2007
