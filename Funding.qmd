@@ -1,0 +1,75 @@
+---
+title: "Funding"
+editor: visual
+toc: false
+---
+
+I really thank all the academic, governmental and commercial organisation that supported my work over the years.
+
+::: {layout-nrow=7}
+![](EU.jpg){width=300}
+![](BSF.jpg){width=300}
+![](BARD.jpg){width=300}
+![](MEn.jpg){width=300}
+![](STS.jpg){width=300}
+![](IA.jpg){width=300}
+
+![](MH.jpg){width=300}
+![](noga.jpg){width=300}
+![](GFI.jpg){width=300}
+
+![](SPARK.jpg){width=300}
+![](ZI.jpg){width=300}
+![](PF.jpg){width=300}
+![](ST.jpg){width=300}
+![TRDC-TAU](TRDC.jpg){width=300}
+![XIN Center](TS.jpg){width=300}
+
+![](MAg.jpg){width=300}
+![](MA.jpg){width=300}
+![](BATM.jpeg){width=300}
+![](SHC.jpg){width=300}
+![](BWH.jpg){width=300}
+![](MGH.jpg){width=300}
+![](Google_2015_logo.jpg){width=300}
+![](PETCO.jpg){width=300}
+![](OpenOpportunities.jpg){width=300}
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

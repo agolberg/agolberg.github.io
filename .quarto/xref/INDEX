@@ -5,5 +5,20 @@
   },
   "about.qmd": {
     "about.html": "bf0ce3a9"
+  },
+  "Expertise.qmd": {
+    "Expertise.html": "010b4bd2"
+  },
+  "Team.qmd": {
+    "Team.html": "96b8fa3f"
+  },
+  "Teaching and Community Outrich.qmd": {
+    "Teaching and Community Outrich.html": "20811c4b"
+  },
+  "Funding.qmd": {
+    "Funding.html": "c85ce440"
+  },
+  "Research Projects.qmd": {
+    "Research Projects.html": "a67719ec"
   }
 }

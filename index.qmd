@@ -11,6 +11,8 @@ about:
       href: https://www.linkedin.com/in/alexander-golberg-2788481
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=2pPLLaEAAAAJ
+    - text: Web of Science
+      href: https://www.webofscience.com/wos/author/record/1183390
     - text: Email
       href: mailto:agolberg@tauex.tau.ac.il
 ---
@@ -24,7 +26,7 @@ Welcome to my website; I'm thrilled to share my journey, expertise, and insights
 
 I have a genuine passion for writing and :) bio-process engineering, an extraordinary field that offers innovative solutions to make a meaningful impact on the world's most pressing issues in the realms of health, food, energy, and the environment. 
 
-This expertise allows forming new and exciting collaborations, through which we further push the boundaries of known and unknown. 
+This expertise allows forming new and exciting collaborations, through which we further push the boundaries of knowledge. 
 
 ## Current position 
 

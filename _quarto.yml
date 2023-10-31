@@ -8,8 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - Expertise.qmd 
+      - Research Projects.qmd
+      - Funding.qmd
+      - Teaching and Community Outrich.qmd
 format:
   html:
     theme: Journal
