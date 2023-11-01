@@ -1,4 +1,40 @@
 ---
 title: "Expertise"
 editor: visual
+toc: false
 ---
+
+## Biochemical conversion process development 
+
+With applications for the production of 
+
+- [Novel food ingredients with focus on **protein, lipids and carbohydrates**](https://link.springer.com/article/10.1007/s10811-020-02044-0)
+- [Biodegradable plastic with focus on **polyhydroxyalkanoates**](https://www.sciencedirect.com/science/article/pii/S0960852422004047)
+- Ingredients for cosmetics
+- [Biostimulants for resilient agriculture](https://www.sciencedirect.com/science/article/pii/S2211926421004288)
+- [Liquid and solid biofuels with focus on **biocrude** and **biochar**](https://www.sciencedirect.com/science/article/pii/S2590174523001319)
+- [Anti-viral compounds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8601053/)
+
+
+## Turning batch to bontinious processing and process scale-up
+
+We have significant experience with the following processing 
+
+- [High voltage pulsed electric fields for molecules extraction from biomass](https://pubs.acs.org/doi/full/10.1021/acsfoodscitech.2c00247)
+- [Hydrothermal liquifaction and carbonisation](https://www.sciencedirect.com/science/article/pii/S2590174523001319) 
+- [Halophytic fermentation](https://www.sciencedirect.com/science/article/pii/S0960852421013067)
+- [Macroalgae photobioreactors](https://www.sciencedirect.com/science/article/pii/S0960852417309628)
+- Process simulation using [SuperPro Designer](https://www.intelligen.com/products/superpro-overview/) and [QuickField](https://quickfield.com/science.htm)
+- [Economic and life cycle analysis](https://www.sciencedirect.com/science/article/pii/S0921800923000447)
+
+## Medical electroporation
+Applying high voltage, non-thermal pulsed electric fields for cell membrane permeabilisation
+
+- [*In vivo* molecular biopsy](https://www.nature.com/articles/s41598-022-19984-x)
+- [Solid tissue ablation](https://peerj.com/articles/1571/)
+- [Skin rejuvenation](https://pubmed.ncbi.nlm.nih.gov/27976527/) and [burn wound scar treatment](https://www.sciencedirect.com/science/article/pii/S0022202X16320966) 
+- [Wound Disinfection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4286470/) 
+- [Pulsed electric field generators and applicators development](https://pubmed.ncbi.nlm.nih.gov/37154990/) 
+- [Process simulation](https://pubmed.ncbi.nlm.nih.gov/37154990/) using finite element analysis with [QuickField](https://quickfield.com/science.htm)
+
+
