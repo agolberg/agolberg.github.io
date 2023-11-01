@@ -66,6 +66,7 @@ The goal is to remove methane emissions from food waste and reduce the volumes o
 - Solar damages to skin and skin cancer diagnostics
 
 **Major results**
+
 - 4 published papers
 - Mapping of all hospital waste by type, cost and environmental inputs 
 - Developing a process for hospital food waste conversion into biocrude and biochar for local use 

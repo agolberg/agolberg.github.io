@@ -16,7 +16,7 @@ With applications for the production of
 - [Anti-viral compounds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8601053/)
 
 
-## Turning batch to bontinious processing and process scale-up
+## Turning batch to continious processing and process scale-up
 
 We have significant experience with the following processing 
 
