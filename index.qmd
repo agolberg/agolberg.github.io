@@ -7,8 +7,6 @@ about:
   image-shape: round
   image-width: 20em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/alexander-golberg-2788481
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=2pPLLaEAAAAJ
     - text: Web of Science
@@ -18,7 +16,7 @@ about:
 ---
 
 
-## Hi there !
+## Shalom !
 
 Welcome to my website; I'm thrilled to share my journey, expertise, and insights with you. 
 
